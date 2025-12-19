@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 About Me
-- 💻 Skilled in **C++**, **C**, **Java**, **Verilog**
+- 💻 Skilled in **C++**, **C**, **Java**, **JavaFX**, **Verilog**
 - 📚 Currently learning **JavaScript (JS)**
 - ⚡ Love building **Automation**, **Web Apps**, **Mobile Apps**
 - 📫 Reach me at: **m.aminagahifard@gmail.com**
