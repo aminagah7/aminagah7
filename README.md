@@ -18,6 +18,7 @@
 ## 🌟 About Me
 - 💻 Skilled in **C++**, **C**, **Java**, **JavaFX**, **Verilog**
 - 📚 Currently learning **JavaScript (JS)**
+- ⚙️ Embedded/Hardware: FPGA (Xilinx)
 - ⚡ Love building **Automation**, **Web Apps**, **Mobile Apps**
 - 📫 Reach me at: **m.aminagahifard@gmail.com**
 
